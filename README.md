@@ -36,11 +36,9 @@ I use the following:
 
 I'm a Logician (INTP) type which is defined as:
 
-```bash
-A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.
-```
+> A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.
 
-I love to analyse patterns, don't ask me to explain my methods for reaching conclusions because quite often I simply don't know what it is. You shouldn't always hold me at my word as sometimes I have ideas and theories that I haven't actually thought through to their natural conclusion, and sometimes that involves me changing my mind half way through the process.
+I love to analyse patterns, but don't ask me to explain my methods for reaching conclusions because quite often I simply don't know what it is. You shouldn't always hold me at my word as sometimes I have ideas and theories that I haven't actually thought through to their natural conclusion, and sometimes that involves me changing my mind half way through the process.
 
 Quite often I will play the role of devil's advocate to ensure that all sides of a problem are being considered; even if I completely agree with the same thought process everyone else has.
 
@@ -68,7 +66,7 @@ My comfort zone is logic and rationality (surprising right) and as a result I ca
 
 * Feel free to get straight into the point rather than saying 'Hi' - I don't mind at all
 * Slack is usually the best way to get me, Email is likely to be ignored, if it's super urgent then call
-* Emojis are fine, Gifs are encourage if appropriately humourous
+* Emojis are fine, Gifs are encouraged if appropriately humourous
 * I prefer asynchronous communication via Slack. If you got my message, you don’t have to reply instantly. Sometimes you may get my Slack message on the weekends or in the late evening. I shared it with you because I just came up with an idea and don’t want to forget it. I don’t expect a reply on the weekend, on your vacation and when you are away. Reply when you start your workday.
 
 ### Me in Meetings
