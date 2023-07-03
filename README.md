@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Matt, an SRE / DevOps / Backstage enthusiast from Powys in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿.
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iTechMDHemmings/iTechMDHemmings/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake"></center>
+</p>
+
+
 <!--
 **iTechMDHemmings/iTechMDHemmings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
